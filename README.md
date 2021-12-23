@@ -5,16 +5,16 @@
 - 📫 You can connect with me on LinkedIn: https://www.linkedin.com/in/kedeishabryan/
 
 Core Competencies:
--Process Improvement
--Data Analysis
--Data Visualization
--Machine Learning
--Lean Six Sigma
--Creative Thinking
+- Process Improvement
+- Data Analysis
+- Data Visualization
+- Machine Learning
+- Lean Six Sigma
+- Creative Thinking
 
 Technical Skills
--Python
--Tableau
--Power BI
--Microsoft Excel
--R
+- Python
+- Tableau
+- Power BI
+- Microsoft Excel
+- R
