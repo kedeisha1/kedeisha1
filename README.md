@@ -8,6 +8,7 @@ Core Competencies:
 - Process Improvement
 - Data Analysis
 - Data Visualization
+- Statistics
 - Machine Learning
 - Lean Six Sigma
 - Creative Thinking
