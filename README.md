@@ -6,6 +6,7 @@
 
 Core Competencies:
 - Process Improvement
+- Project Management
 - Data Analysis
 - Data Visualization
 - Statistics
