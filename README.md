@@ -18,4 +18,4 @@ Technical Skills
 - Tableau
 - Power BI
 - Microsoft Excel
-- R
+  
